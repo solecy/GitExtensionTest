@@ -12,6 +12,8 @@
         <p>
             <asp:Label ID="mylable" runat="server"></asp:Label>
         </p>
+测试一
+
     </div>
 </body>
 </html>
