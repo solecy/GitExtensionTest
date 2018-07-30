@@ -12,14 +12,7 @@
         <p>
             <asp:Label ID="mylable" runat="server"></asp:Label>
         </p>
-测试一
-aaa
-inteter test              哈哈哈哈
-你好，world
-12
-啊啊啊
-
-第二个
+这是master的页面！！！！
 
     </div>
 </body>
