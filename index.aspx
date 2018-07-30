@@ -12,8 +12,7 @@
         <p>
             <asp:Label ID="mylable" runat="server"></asp:Label>
         </p>
-测试一
-aaa
+这是master的页面！！！！
 
 
 
