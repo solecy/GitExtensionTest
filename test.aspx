@@ -7,13 +7,6 @@
     <title></title>
 </head>
 <body>
-    <div>
-        Hello world.Start git !!!
-        <p>
-            <asp:Label ID="mylable" runat="server"></asp:Label>
-        </p>
-这是master的页面！！！！
-242423423
-    </div>
+  HELLO SOLE!
 </body>
 </html>
