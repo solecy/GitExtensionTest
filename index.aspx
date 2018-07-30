@@ -12,12 +12,7 @@
         <p>
             <asp:Label ID="mylable" runat="server"></asp:Label>
         </p>
-这是master的页面！！！！
-
-
-
-哈哈哈哈哈哈哈哈哈哈
-
+哈哈哈哈哈哈哈哈哈
     </div>
 </body>
 </html>
